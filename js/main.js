@@ -18,7 +18,7 @@
 	}
 
 	function getThing() {
-		var i = getRandomInteger(0, foods.length - 1);
+		var i = getRandomInteger(0, things.length - 1);
 		return things[i];
 	}
 
