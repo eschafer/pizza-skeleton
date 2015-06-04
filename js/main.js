@@ -60,7 +60,10 @@
 		{word: "cereal", syllables: 3},
 		{word: "yogurt", syllables: 2},
 		{word: "candy", syllables: 2},
-		{word: "muffin", syllables: 2}
+		{word: "muffin", syllables: 2},
+		{word: "strawberry", syllables: 3},
+		{word: "potato", syllables: 3},
+		{word: "yam", syllables: 1}
 	];
 
 	var things = [
@@ -117,7 +120,20 @@
 		{word: "radiator", syllables: 4},
 		{word: "pharmacy", syllables: 3},
 		{word: "library", syllables: 3},
-		{word: "theater", syllables: 3}
+		{word: "theater", syllables: 3},
+		{word: "garbage", syllables: 2},
+		{word: "steamchip", syllables: 2},
+		{word: "wordbank", syllables: 2},
+		{word: "lifesaver", syllables: 2},
+		{word: "kangaroo", syllables: 3},
+		{word: "president", syllables: 3},
+		{word: "mouseketeer", syllables: 3},
+		{word: "plutonium", syllables: 4},
+		{word: "skyscraper", syllables: 3},
+		{word: "recycling bin", syllables: 4},
+		{word: "barnacle", syllables: 3},
+		{word: "briefcase", syllables: 2},
+		{word: "bone", syllables: 1}
 	];
 
 	function getRandomInteger(min, max) {
